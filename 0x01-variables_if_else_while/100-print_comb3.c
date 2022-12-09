@@ -1,8 +1,8 @@
 #include <stdio.h>
-#include <unistd>
+#include <unistd.h>
 /**
- * main - Entry point
- * Description: prints two digit combination
+ * main - Entyr point
+ * Description: prints two digits combination
  * Return: Always 0 (success)
  */
 int main(void)
